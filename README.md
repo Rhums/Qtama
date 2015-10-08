@@ -1,0 +1,2 @@
+# Qtama
+tamagotchi en c++
